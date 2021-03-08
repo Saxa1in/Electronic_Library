@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(53,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(82,57): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(155,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(207,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(220,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(276,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(277,32): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(281,72): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(285,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(294,29): warning C4267: аргумент: преобразование из "size_t" в "const _Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(322,40): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(371,40): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(431,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(432,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(490,41): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(497,56): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(498,52): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(502,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(504,42): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(507,69): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(510,65): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(516,61): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(519,65): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\atosy\source\repos\AiStrD_Curse\AiStrD_Curse\main.cpp(530,41): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  AiStrD_Curse.vcxproj -> C:\Users\atosy\source\repos\AiStrD_Curse\x64\Debug\AiStrD_Curse.exe
